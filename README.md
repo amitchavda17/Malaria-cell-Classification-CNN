@@ -1,5 +1,5 @@
 # Malaria-cell-Classification-CNN
-Trained a Convolutio neural network for classifying Malaria cell images as parasitized or uninfected.
+Trained a Convolutiom neural network using keras for classifying Malaria cell images as parasitized or uninfected.
 
 Dataset:[Malaria Cell Image data](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 
